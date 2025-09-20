@@ -96,7 +96,6 @@ for r in ratios:
 ```
 # OUTPUT :
 
-<img width="796" height="679" alt="Screenshot 2025-09-21 105533" src="https://github.com/user-attachments/assets/9a5e93b9-6bf4-46![Uploading Screenshot 2025-09-21 110107.png…]()
-0b-9ac0-ebf24d0da6be" />
+<img width="796" height="679" alt="Screenshot 2025-09-21 105533" src="https://github.com/user-attachments/assets/9a5e93b9-6bf4-460b-9ac0-ebf24d0da6be" />
 <img width="793" height="676" alt="Screenshot 2025-09-21 110028" src="https://github.com/user-attachments/assets/3b3108f5-dd86-43f5-b9c1-5999b40d7521" />
 <img width="795" height="677" alt="Screenshot 2025-09-21 110048" src="https://github.com/user-attachments/assets/44556cd7-ff36-4bdd-ba88-0b4066e83055" />
