@@ -1,4 +1,4 @@
-# SA - 1 - scatter-plot-between-cylinder-vs-Co2Emission :
+# SA - 1 - scatter-plot-between-cylinder-vs-Co2Emission
 
 # Program developed by : ADITYAH M S
 # Register Number : 212223220002
